@@ -11,8 +11,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleCast",
-            url: "https://dl.google.com/dl/chromecast/sdk/ios/GoogleCastSDK-ios-4.7.1_static_beta.xcframework.zip",
-            checksum: "7dbc206f6cf243694d4670d4e9ee4d03070781fd12b1e831b5a4f586d6c55f86"
+            url: "https://dl.google.com/dl/chromecast/sdk/ios/GoogleCastSDK-ios-4.8.3_dynamic.zip",
+            checksum: "bc2c3c2434ef2895a0388ac3f16932242d3d3ac11805f810dbe7d7bce3bb27f6"
         )
     ]
 )
